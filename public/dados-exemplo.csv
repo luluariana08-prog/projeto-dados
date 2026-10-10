@@ -1,0 +1,201 @@
+id_venda,data,produto,categoria,regiao,quantidade,preco_unitario
+1,2025-01-03,Hambúrguer clássico,Lanches,Norte,1,28.90
+2,2025-01-10,Brownie,Sobremesas,Sudeste,2,13.90
+3,2025-01-17,Milkshake,Sobremesas,Nordeste,3,18.90
+4,2025-01-24,Milkshake,Sobremesas,Sul,4,18.90
+5,2025-01-03,Refrigerante,Bebidas,Centro-Oeste,1,7.50
+6,2025-01-10,Onion rings,Acompanhamentos,Nordeste,2,16.50
+7,2025-01-17,Onion rings,Acompanhamentos,Sul,3,16.50
+8,2025-01-24,Batata frita,Acompanhamentos,Centro-Oeste,1,14.90
+9,2025-01-03,Veggie burger,Lanches,Norte,2,32.50
+10,2025-01-10,Veggie burger,Lanches,Sudeste,3,32.50
+11,2025-01-17,X-Bacon,Lanches,Centro-Oeste,4,34.90
+12,2025-01-24,Hambúrguer clássico,Lanches,Norte,1,28.90
+13,2025-01-03,Hambúrguer clássico,Lanches,Sudeste,2,28.90
+14,2025-01-10,Brownie,Sobremesas,Nordeste,3,13.90
+15,2025-01-17,Milkshake,Sobremesas,Sul,1,18.90
+16,2025-01-24,Milkshake,Sobremesas,Sudeste,2,18.90
+17,2025-01-03,Refrigerante,Bebidas,Nordeste,3,7.50
+18,2025-02-10,Onion rings,Acompanhamentos,Sul,4,16.50
+19,2025-02-17,Onion rings,Acompanhamentos,Centro-Oeste,1,16.50
+20,2025-02-24,Batata frita,Acompanhamentos,Norte,2,14.90
+21,2025-02-03,Veggie burger,Lanches,Sul,3,32.50
+22,2025-02-10,Veggie burger,Lanches,Centro-Oeste,1,32.50
+23,2025-02-17,X-Bacon,Lanches,Norte,2,34.90
+24,2025-02-24,Hambúrguer clássico,Lanches,Sudeste,3,28.90
+25,2025-02-03,Hambúrguer clássico,Lanches,Nordeste,4,28.90
+26,2025-02-10,Brownie,Sobremesas,Norte,1,13.90
+27,2025-02-17,Milkshake,Sobremesas,Sudeste,2,18.90
+28,2025-02-24,Milkshake,Sobremesas,Nordeste,3,18.90
+29,2025-02-03,Refrigerante,Bebidas,Sul,1,7.50
+30,2025-02-10,Onion rings,Acompanhamentos,Centro-Oeste,2,16.50
+31,2025-02-17,Onion rings,Acompanhamentos,Nordeste,3,16.50
+32,2025-02-24,Batata frita,Acompanhamentos,Sul,4,14.90
+33,2025-02-03,Veggie burger,Lanches,Centro-Oeste,1,32.50
+34,2025-02-10,Veggie burger,Lanches,Norte,2,32.50
+35,2025-03-17,X-Bacon,Lanches,Sudeste,3,34.90
+36,2025-03-24,Hambúrguer clássico,Lanches,Centro-Oeste,1,28.90
+37,2025-03-03,Hambúrguer clássico,Lanches,Norte,2,28.90
+38,2025-03-10,Brownie,Sobremesas,Sudeste,3,13.90
+39,2025-03-17,Milkshake,Sobremesas,Nordeste,4,18.90
+40,2025-03-24,Milkshake,Sobremesas,Sul,1,18.90
+41,2025-03-03,Refrigerante,Bebidas,Sudeste,2,7.50
+42,2025-03-10,Onion rings,Acompanhamentos,Nordeste,3,16.50
+43,2025-03-17,Onion rings,Acompanhamentos,Sul,1,16.50
+44,2025-03-24,Batata frita,Acompanhamentos,Centro-Oeste,2,14.90
+45,2025-03-03,Veggie burger,Lanches,Norte,3,32.50
+46,2025-03-10,Veggie burger,Lanches,Sul,4,32.50
+47,2025-03-17,X-Bacon,Lanches,Centro-Oeste,1,34.90
+48,2025-03-24,Hambúrguer clássico,Lanches,Norte,2,28.90
+49,2025-03-03,Hambúrguer clássico,Lanches,Sudeste,3,28.90
+50,2025-03-10,Brownie,Sobremesas,Nordeste,1,13.90
+51,2025-04-17,Milkshake,Sobremesas,Norte,2,18.90
+52,2025-04-24,Milkshake,Sobremesas,Sudeste,3,18.90
+53,2025-04-03,Refrigerante,Bebidas,Nordeste,4,7.50
+54,2025-04-10,Onion rings,Acompanhamentos,Sul,1,16.50
+55,2025-04-17,Onion rings,Acompanhamentos,Centro-Oeste,2,16.50
+56,2025-04-24,Batata frita,Acompanhamentos,Nordeste,3,14.90
+57,2025-04-03,Veggie burger,Lanches,Sul,1,32.50
+58,2025-04-10,Veggie burger,Lanches,Centro-Oeste,2,32.50
+59,2025-04-17,X-Bacon,Lanches,Norte,3,34.90
+60,2025-04-24,Hambúrguer clássico,Lanches,Sudeste,4,28.90
+61,2025-04-03,Hambúrguer clássico,Lanches,Centro-Oeste,1,28.90
+62,2025-04-10,Brownie,Sobremesas,Norte,2,13.90
+63,2025-04-17,Milkshake,Sobremesas,Sudeste,3,18.90
+64,2025-04-24,Milkshake,Sobremesas,Nordeste,1,18.90
+65,2025-04-03,Refrigerante,Bebidas,Sul,2,7.50
+66,2025-04-10,Onion rings,Acompanhamentos,Sudeste,3,16.50
+67,2025-04-17,Onion rings,Acompanhamentos,Nordeste,4,16.50
+68,2025-05-24,Batata frita,Acompanhamentos,Sul,1,14.90
+69,2025-05-03,Veggie burger,Lanches,Centro-Oeste,2,32.50
+70,2025-05-10,Veggie burger,Lanches,Norte,3,32.50
+71,2025-05-17,X-Bacon,Lanches,Sul,1,34.90
+72,2025-05-24,Hambúrguer clássico,Lanches,Centro-Oeste,2,28.90
+73,2025-05-03,Hambúrguer clássico,Lanches,Norte,3,28.90
+74,2025-05-10,Brownie,Sobremesas,Sudeste,4,13.90
+75,2025-05-17,Milkshake,Sobremesas,Nordeste,1,18.90
+76,2025-05-24,Milkshake,Sobremesas,Norte,2,18.90
+77,2025-05-03,Refrigerante,Bebidas,Sudeste,3,7.50
+78,2025-05-10,Onion rings,Acompanhamentos,Nordeste,1,16.50
+79,2025-05-17,Onion rings,Acompanhamentos,Sul,2,16.50
+80,2025-05-24,Batata frita,Acompanhamentos,Centro-Oeste,3,14.90
+81,2025-05-03,Veggie burger,Lanches,Nordeste,4,32.50
+82,2025-05-10,Veggie burger,Lanches,Sul,1,32.50
+83,2025-05-17,X-Bacon,Lanches,Centro-Oeste,2,34.90
+84,2025-05-24,Hambúrguer clássico,Lanches,Norte,3,28.90
+85,2025-06-03,Hambúrguer clássico,Lanches,Sudeste,1,28.90
+86,2025-06-10,Brownie,Sobremesas,Centro-Oeste,2,13.90
+87,2025-06-17,Milkshake,Sobremesas,Norte,3,18.90
+88,2025-06-24,Milkshake,Sobremesas,Sudeste,4,18.90
+89,2025-06-03,Refrigerante,Bebidas,Nordeste,1,7.50
+90,2025-06-10,Onion rings,Acompanhamentos,Sul,2,16.50
+91,2025-06-17,Onion rings,Acompanhamentos,Sudeste,3,16.50
+92,2025-06-24,Batata frita,Acompanhamentos,Nordeste,1,14.90
+93,2025-06-03,Veggie burger,Lanches,Sul,2,32.50
+94,2025-06-10,Veggie burger,Lanches,Centro-Oeste,3,32.50
+95,2025-06-17,X-Bacon,Lanches,Norte,4,34.90
+96,2025-06-24,Hambúrguer clássico,Lanches,Sul,1,28.90
+97,2025-06-03,Hambúrguer clássico,Lanches,Centro-Oeste,2,28.90
+98,2025-06-10,Brownie,Sobremesas,Norte,3,13.90
+99,2025-06-17,Milkshake,Sobremesas,Sudeste,1,18.90
+100,2025-06-24,Milkshake,Sobremesas,Nordeste,2,18.90
+101,2025-07-03,Refrigerante,Bebidas,Norte,3,7.50
+102,2025-07-10,Onion rings,Acompanhamentos,Sudeste,4,16.50
+103,2025-07-17,Onion rings,Acompanhamentos,Nordeste,1,16.50
+104,2025-07-24,Batata frita,Acompanhamentos,Sul,2,14.90
+105,2025-07-03,Veggie burger,Lanches,Centro-Oeste,3,32.50
+106,2025-07-10,Veggie burger,Lanches,Nordeste,1,32.50
+107,2025-07-17,X-Bacon,Lanches,Sul,2,34.90
+108,2025-07-24,Hambúrguer clássico,Lanches,Centro-Oeste,3,28.90
+109,2025-07-03,Hambúrguer clássico,Lanches,Norte,4,28.90
+110,2025-07-10,Brownie,Sobremesas,Sudeste,1,13.90
+111,2025-07-17,Milkshake,Sobremesas,Centro-Oeste,2,18.90
+112,2025-07-24,Milkshake,Sobremesas,Norte,3,18.90
+113,2025-07-03,Refrigerante,Bebidas,Sudeste,1,7.50
+114,2025-07-10,Onion rings,Acompanhamentos,Nordeste,2,16.50
+115,2025-07-17,Onion rings,Acompanhamentos,Sul,3,16.50
+116,2025-07-24,Batata frita,Acompanhamentos,Sudeste,4,14.90
+117,2025-07-03,Veggie burger,Lanches,Nordeste,1,32.50
+118,2025-08-10,Veggie burger,Lanches,Sul,2,32.50
+119,2025-08-17,X-Bacon,Lanches,Centro-Oeste,3,34.90
+120,2025-08-24,Hambúrguer clássico,Lanches,Norte,1,28.90
+121,2025-08-03,Hambúrguer clássico,Lanches,Sul,2,28.90
+122,2025-08-10,Brownie,Sobremesas,Centro-Oeste,3,13.90
+123,2025-08-17,Milkshake,Sobremesas,Norte,4,18.90
+124,2025-08-24,Milkshake,Sobremesas,Sudeste,1,18.90
+125,2025-08-03,Refrigerante,Bebidas,Nordeste,2,7.50
+126,2025-08-10,Onion rings,Acompanhamentos,Norte,3,16.50
+127,2025-08-17,Onion rings,Acompanhamentos,Sudeste,1,16.50
+128,2025-08-24,Batata frita,Acompanhamentos,Nordeste,2,14.90
+129,2025-08-03,Veggie burger,Lanches,Sul,3,32.50
+130,2025-08-10,Veggie burger,Lanches,Centro-Oeste,4,32.50
+131,2025-08-17,X-Bacon,Lanches,Nordeste,1,34.90
+132,2025-08-24,Hambúrguer clássico,Lanches,Sul,2,28.90
+133,2025-08-03,Hambúrguer clássico,Lanches,Centro-Oeste,3,28.90
+134,2025-08-10,Brownie,Sobremesas,Norte,1,13.90
+135,2025-09-17,Milkshake,Sobremesas,Sudeste,2,18.90
+136,2025-09-24,Milkshake,Sobremesas,Centro-Oeste,3,18.90
+137,2025-09-03,Refrigerante,Bebidas,Norte,4,7.50
+138,2025-09-10,Onion rings,Acompanhamentos,Sudeste,1,16.50
+139,2025-09-17,Onion rings,Acompanhamentos,Nordeste,2,16.50
+140,2025-09-24,Batata frita,Acompanhamentos,Sul,3,14.90
+141,2025-09-03,Veggie burger,Lanches,Sudeste,1,32.50
+142,2025-09-10,Veggie burger,Lanches,Nordeste,2,32.50
+143,2025-09-17,X-Bacon,Lanches,Sul,3,34.90
+144,2025-09-24,Hambúrguer clássico,Lanches,Centro-Oeste,4,28.90
+145,2025-09-03,Hambúrguer clássico,Lanches,Norte,1,28.90
+146,2025-09-10,Brownie,Sobremesas,Sul,2,13.90
+147,2025-09-17,Milkshake,Sobremesas,Centro-Oeste,3,18.90
+148,2025-09-24,Milkshake,Sobremesas,Norte,1,18.90
+149,2025-09-03,Refrigerante,Bebidas,Sudeste,2,7.50
+150,2025-09-10,Onion rings,Acompanhamentos,Nordeste,3,16.50
+151,2025-10-17,Onion rings,Acompanhamentos,Norte,4,16.50
+152,2025-10-24,Batata frita,Acompanhamentos,Sudeste,1,14.90
+153,2025-10-03,Veggie burger,Lanches,Nordeste,2,32.50
+154,2025-10-10,Veggie burger,Lanches,Sul,3,32.50
+155,2025-10-17,X-Bacon,Lanches,Centro-Oeste,1,34.90
+156,2025-10-24,Hambúrguer clássico,Lanches,Nordeste,2,28.90
+157,2025-10-03,Hambúrguer clássico,Lanches,Sul,3,28.90
+158,2025-10-10,Brownie,Sobremesas,Centro-Oeste,4,13.90
+159,2025-10-17,Milkshake,Sobremesas,Norte,1,18.90
+160,2025-10-24,Milkshake,Sobremesas,Sudeste,2,18.90
+161,2025-10-03,Refrigerante,Bebidas,Centro-Oeste,3,7.50
+162,2025-10-10,Onion rings,Acompanhamentos,Norte,1,16.50
+163,2025-10-17,Onion rings,Acompanhamentos,Sudeste,2,16.50
+164,2025-10-24,Batata frita,Acompanhamentos,Nordeste,3,14.90
+165,2025-10-03,Veggie burger,Lanches,Sul,4,32.50
+166,2025-10-10,Veggie burger,Lanches,Sudeste,1,32.50
+167,2025-10-17,X-Bacon,Lanches,Nordeste,2,34.90
+168,2025-11-24,Hambúrguer clássico,Lanches,Sul,3,28.90
+169,2025-11-03,Hambúrguer clássico,Lanches,Centro-Oeste,1,28.90
+170,2025-11-10,Brownie,Sobremesas,Norte,2,13.90
+171,2025-11-17,Milkshake,Sobremesas,Sul,3,18.90
+172,2025-11-24,Milkshake,Sobremesas,Centro-Oeste,4,18.90
+173,2025-11-03,Refrigerante,Bebidas,Norte,1,7.50
+174,2025-11-10,Onion rings,Acompanhamentos,Sudeste,2,16.50
+175,2025-11-17,Onion rings,Acompanhamentos,Nordeste,3,16.50
+176,2025-11-24,Batata frita,Acompanhamentos,Norte,1,14.90
+177,2025-11-03,Veggie burger,Lanches,Sudeste,2,32.50
+178,2025-11-10,Veggie burger,Lanches,Nordeste,3,32.50
+179,2025-11-17,X-Bacon,Lanches,Sul,4,34.90
+180,2025-11-24,Hambúrguer clássico,Lanches,Centro-Oeste,1,28.90
+181,2025-11-03,Hambúrguer clássico,Lanches,Nordeste,2,28.90
+182,2025-11-10,Brownie,Sobremesas,Sul,3,13.90
+183,2025-11-17,Milkshake,Sobremesas,Centro-Oeste,1,18.90
+184,2025-11-24,Milkshake,Sobremesas,Norte,2,18.90
+185,2025-12-03,Refrigerante,Bebidas,Sudeste,3,7.50
+186,2025-12-10,Onion rings,Acompanhamentos,Centro-Oeste,4,16.50
+187,2025-12-17,Onion rings,Acompanhamentos,Norte,1,16.50
+188,2025-12-24,Batata frita,Acompanhamentos,Sudeste,2,14.90
+189,2025-12-03,Veggie burger,Lanches,Nordeste,3,32.50
+190,2025-12-10,Veggie burger,Lanches,Sul,1,32.50
+191,2025-12-17,X-Bacon,Lanches,Sudeste,2,34.90
+192,2025-12-24,Hambúrguer clássico,Lanches,Nordeste,3,28.90
+193,2025-12-03,Hambúrguer clássico,Lanches,Sul,4,28.90
+194,2025-12-10,Brownie,Sobremesas,Centro-Oeste,1,13.90
+195,2025-12-17,Milkshake,Sobremesas,Norte,2,18.90
+196,2025-12-24,Milkshake,Sobremesas,Sul,3,18.90
+197,2025-12-03,Refrigerante,Bebidas,Centro-Oeste,1,7.50
+198,2025-12-10,Onion rings,Acompanhamentos,Norte,2,16.50
+199,2025-12-17,Onion rings,Acompanhamentos,Sudeste,3,16.50
+200,2025-12-24,Batata frita,Acompanhamentos,Nordeste,4,14.90
